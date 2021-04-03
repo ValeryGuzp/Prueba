@@ -1,0 +1,8 @@
+/*Comentario en CSS*/
+body{
+
+    background-color: rgb(243, 222, 224);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 11em;    
+}
